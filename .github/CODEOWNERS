@@ -1,0 +1,3 @@
+# Changes to CI/CD workflows, composite actions and repo automation
+# need review from Jomer (security hardening after the 2026-04-22 incident).
+/.github/ @jomer30
